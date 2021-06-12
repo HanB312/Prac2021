@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 # Prac2021 documentation build configuration file, created by
-# sphinx-quickstart on Mon Apr  5 13:48:22 2021.
+# sphinx-quickstart on Sat Jun 12 15:37:36 2021.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -17,9 +17,9 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
- import os
- import sys
- sys.path.insert(0, '/home/u1007/Prac2021')
+import os
+import sys
+sys.path.insert(0, '/home/ubuntu/Prac2021')
 
 
 # -- General configuration ------------------------------------------------
